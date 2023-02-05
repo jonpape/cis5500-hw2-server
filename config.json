@@ -1,0 +1,9 @@
+{
+  "rds_host": "cis-5500-hw2.cm4zazra46hn.us-west-2.rds.amazonaws.com",
+  "rds_port": "3306",
+  "rds_user": "jonpape",
+  "rds_password": "weakpass123",
+  "rds_db": "SWIFTIFY",
+  "server_host": "localhost",
+  "server_port": "8080"
+}
